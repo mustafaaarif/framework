@@ -1,0 +1,17 @@
+{
+    "name": "mustafa/staller",
+    "description": "The staller is a modern and flexible MVC (Model-View-Controller) framework designed to streamline the development of robust and scalable web applications. Built on the principles of separation of concerns and code reusability, our framework empowers developers to create organized, maintainable, and efficient codebases.",
+    "type": "framework",
+    "autoload": {
+        "psr-4": {
+            "Mustafa\\Staller\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mustafa Arif"
+        }
+    ],
+    "minimum-stability": "stable"
+}
